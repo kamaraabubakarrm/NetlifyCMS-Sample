@@ -1,0 +1,9 @@
+{{ range where .Site.RegularPages "Type" "modules"}}
+<a href="{{ .Permalink }}">
+  <div class="module">
+    <h3>{{ .Title }}</h3>
+    <em>Duration: {{ .Params.duration }}</em>
+    <p>{{ .Description }}</p>
+  <div>
+</a>
+{{ end }}
