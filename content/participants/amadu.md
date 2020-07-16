@@ -1,6 +1,6 @@
 ---
 title: Amadu
-specialization: I hate u
+specialization: Data Scientist
 photo: /img/amadu.jpg
 description: I am Amadu Wurie Bah
 draft: false
