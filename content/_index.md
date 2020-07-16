@@ -1,13 +1,7 @@
 ---
-title: "Homepage"
-
+title: Homepage
 ---
-
-
-
-
-
-# Project Information 
+# Project Information Finalized!!!!!
 
 This project is part of a larger project between YMCA and Bread for the World a German development organization. [You can read more about this project by following this link.](docs/ymca-cps-project.md)
 
@@ -17,10 +11,10 @@ While you work with your colleagues to build the website for SiLNoRF, [Daniel Sa
 
 The things we that we as coaches want to achieve in the coming weeks:
 
-- [Create a new website for Silnorf](docs/silnorf-website.md)
-- Identified learning goals for each of the students
-- Students have improved their teamwork skills (Git + Github, Agile/Scrum methodology)
-- Each student has an online portfolio to show his work
+* [Create a new website for Silnorf](docs/silnorf-website.md)
+* Identified learning goals for each of the students
+* Students have improved their teamwork skills (Git + Github, Agile/Scrum methodology)
+* Each student has an online portfolio to show his work
 
 By working on these objectives we want to help the contribute to the YMCA CPS Project while also helping the students to improve their programming skills and to teach them to work on real life projects.
 
@@ -44,4 +38,4 @@ The duration for this project will be 10 weeks. During these weeks we will work 
 
 This project ends after the duration of 10 weeks. However SiLNoRF is facing different IT challenges that also need a solution, and the CPS network contains other organisations that also need help with their IT challenges. 
 
-This project acts as a pilot, for a concept that we would like to repeat multiple times for various organisations and IT disciplines. However, we can not give any details yet about these follow up projects, since they depend on the outcome and lessons learned from this project and on the options we have with regards to our budget.  
+This project acts as a pilot, for a concept that we would like to repeat multiple times for various organisations and IT disciplines. However, we can not give any details yet about these follow up projects, since they depend on the outcome and lessons learned from this project and on the options we have with regards to our budget.
