@@ -1,8 +1,8 @@
 ---
-title: "Amadu"
-specialization: I hate u
-photo: /img/
-description: 
+title: Amadu
+specialization: Data Scientist
+photo: /img/amadu.jpg
+description: I am Amadu Wurie Bah
 draft: false
 ---
 
