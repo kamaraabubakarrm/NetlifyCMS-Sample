@@ -1,11 +1,11 @@
 ---
 title: "Amadu"
 specialization: I hate u
-photo: /img/amadu.jpg
+photo: /img/
 description: 
 draft: false
 ---
-![](/img/amadu.jpg)
+
 # My Biography 
 I am Amadu Wurie Baha a 25 years old who was born in a small village called “Kanikay” in Bombalili District, Northern province, sierra Leone. My dad rear cattle and my mother is a vegetable grower. Both of hem stays in the village. I am the first child to my mother but not the first to my father. My father married two wives. So, I have elder brothers and sisters from my step mother. I have six little brothers from the same mother “Lamin”, Chernor Mamadu”, Mamadu Jula”, “Zakaria”, “Alphajor” and “Mamud”. My two elder sisters “Hawa and Adama” are already married. Hawa is married to a driver in Guinea and Adama is married to a cattle owner who stays in Makeni. One of my older brother “Alhaji” is a driver and he stays in Freetown and my oldest brother “Alpha” stays with my father and mother in the village. My step mother died in 2015. May her soul rest in peace.
 During the civil war I Sierra Leone, my parents relocated to Guinea a neighboring country. After the war ended, we returned back to sierra Leone. In 2003/2004 academic I started going to school in my native village Kanikay. In 2005/2016 academic year, I left my native village for Magburaka Town to stay with my late Aunty. May her soul rest in peace. 
