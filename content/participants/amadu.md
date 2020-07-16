@@ -1,7 +1,7 @@
 ---
 title: "Amadu"
 specialization: I hate u
-photo: /img/
+photo: /img
 description: 
 draft: false
 ---
